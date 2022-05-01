@@ -1,4 +1,5 @@
 # UretkenAkademiBootcampFetchData
+ReactApp is used
 Fetching data with axios without using hooks.
 
 
